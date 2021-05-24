@@ -8,8 +8,6 @@ Code and associated files
 
 This repository contains code and associated files for deploying ML models using AWS SageMaker. 
 
-## Table Of Contents
-
 ## Setup Instructions
 
 The notebooks provided in this repository are intended to be executed using Amazon's SageMaker platform. The following is a brief set of instructions on setting up a managed notebook instance using SageMaker, from which the notebooks can be completed and run.
